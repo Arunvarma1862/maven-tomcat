@@ -16,7 +16,7 @@
 
       <br />
       <a href="index.jsp">
-        <button>⬅ Back to Home</button>
+        <button>Back to Home</button>
       </a>
     </div>
   </body>
